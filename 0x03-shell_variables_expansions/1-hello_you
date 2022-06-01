@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello %username%'
+u='$USER';echo 'hello $u'
