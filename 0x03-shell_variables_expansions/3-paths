@@ -1,1 +1,2 @@
-VimCrypt~03!Ù*AJ<∆íÄù>ﬁÀ©Ø›{÷í2¿ΩÚ±‘Á9o∑Ωà§&”mçÊ…JÒde
+#!/bin/bash
+$PATH ls | wc -l
